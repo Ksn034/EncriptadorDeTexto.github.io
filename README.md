@@ -49,7 +49,7 @@ El proyecto está estructurado de la siguiente manera:
 
 Desarrollado por Kimberly Mercedes Silva Nieves.
 
-- LinkedIn: [Kimberly Mercedes Silva Nieves](www.linkedin.com/in/kimberly-mercedes-silva-nieves-937039239)
+- LinkedIn: [Kimberly Mercedes Silva Nieves](https://www.linkedin.com/in/kimberly-mercedes-silva-nieves-937039239/)
 
 ## Tecnologías Utilizadas
 
